@@ -151,9 +151,6 @@ export const AUTH_PROVIDERS: DisplayChoice[] = [
 
 // Misc choices
 
-export const NO = "NO";
-export const YES = "YES";
-
 export const TOGGLE: DisplayChoice[] = [
   { key: "no", displayName: "No" },
   { key: "yes", displayName: "Yes" },
